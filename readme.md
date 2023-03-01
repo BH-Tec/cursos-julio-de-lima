@@ -21,7 +21,8 @@ Projeto de criação de um script de teste para a video aula de Julio de Lima.
 ## 🚀 Tecnologias
 
 <p align="center">
-  <img src="">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 </p>
 
 ## 📝 License
