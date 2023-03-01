@@ -14,7 +14,15 @@
 
 ## 💻 Projeto
 
-Projeto de criação de um script de teste para a video aula de Julio de Lima.
+Repositório criado para as videoaulas de Julio de Lima.
+
+#### Testes de API
+
+- [Testes de API Episódio 1: Como você planeja seus testes de API?](https://www.youtube.com/watch?v=jUukEkY0RGs&ab_channel=JuliodeLima)
+- [Testes de API Episódio 2: Papel do QA que Testa API's](https://www.youtube.com/watch?v=lCTuhjSTn4Q&ab_channel=JuliodeLima)
+- [Testes de API Episódio 3: Automação de Testes](https://www.youtube.com/watch?v=W3hUDLx_tGo&ab_channel=JuliodeLima)
+
+#### Scripts de Testes
 
 - [Meu Primeiro Script de Teste #1: WebDriver com Java](https://www.youtube.com/watch?v=lELENTQ-PWc&ab_channel=JuliodeLima)
 
